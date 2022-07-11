@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.1.0
 files:
-  - url: record Setup 1.0.2.exe
-    sha512: iJPDBBHchkH0hQ0qvRjPDgNMi3G0pNNzM76i2RHnVSuCOJPpe32K2kFwtAWdZvuAkPGV2aTYukmCnpu1BLevJw==
-    size: 85091958
-path: record Setup 1.0.2.exe
-sha512: iJPDBBHchkH0hQ0qvRjPDgNMi3G0pNNzM76i2RHnVSuCOJPpe32K2kFwtAWdZvuAkPGV2aTYukmCnpu1BLevJw==
-releaseDate: '2022-07-11T05:46:31.529Z'
+  - url: record Setup 1.1.0.exe
+    sha512: br0neqIgihVGenGX0C3qGLUcafjb/nlKtYGESH1nrSAUuoDTGRqs+Hr5CysgIDZViwZoV2eXvzd3hUXZ2oe+8w==
+    size: 85091715
+path: record Setup 1.1.0.exe
+sha512: br0neqIgihVGenGX0C3qGLUcafjb/nlKtYGESH1nrSAUuoDTGRqs+Hr5CysgIDZViwZoV2eXvzd3hUXZ2oe+8w==
+releaseDate: '2022-07-11T07:38:39.683Z'
