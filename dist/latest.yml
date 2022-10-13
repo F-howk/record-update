@@ -1,8 +1,8 @@
-version: 1.1.2
+version: 1.1.3
 files:
-  - url: record Setup 1.1.2.exe
-    sha512: yM2ceiUdu7o3etNHFbO/qYz/Tf3Gb5cdutQXWr03RRG+ZaTY/cEnQ/e76vQb775tnH0Zoct44sBUz6916c5Rdw==
-    size: 85587225
-path: record Setup 1.1.2.exe
-sha512: yM2ceiUdu7o3etNHFbO/qYz/Tf3Gb5cdutQXWr03RRG+ZaTY/cEnQ/e76vQb775tnH0Zoct44sBUz6916c5Rdw==
-releaseDate: '2022-10-13T08:46:20.540Z'
+  - url: record Setup 1.1.3.exe
+    sha512: JhPc1MgQpGtmd3el4r9omcNe0D7WTrEW9mDeh2WMgWQsDQqABDka/Vv9kSl9BYjrk/y8C4GqjbJduT0m1X/yow==
+    size: 85587147
+path: record Setup 1.1.3.exe
+sha512: JhPc1MgQpGtmd3el4r9omcNe0D7WTrEW9mDeh2WMgWQsDQqABDka/Vv9kSl9BYjrk/y8C4GqjbJduT0m1X/yow==
+releaseDate: '2022-10-13T09:05:04.502Z'
